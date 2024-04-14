@@ -32,7 +32,7 @@ Vision should be active upon reboot. Make sure the camera index is set correctly
 ### Hardware Control
 #### Prerequistes
 
-Before any further actions could be take, the download the latest version of PlatformIO and mount the project into PlatformIO or in CLI, go to the project Arduino_uno directory. 
+Before any further actions could be taken, download the latest version of PlatformIO and mount the project in VScode or, using CLI, go to the project Arduino_uno directory. 
 
 Since it is necessary to be able to communicate using serial, make sure the correct USB to Serial drivers are installed on the Orange PI 5.
 
